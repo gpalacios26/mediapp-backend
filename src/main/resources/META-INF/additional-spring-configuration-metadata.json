@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "security.oauth2.resource.filter-order",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.resource.filter-order'"
+  },
+  {
+    "name": "security.signing-key",
+    "type": "java.lang.String",
+    "description": "A description for 'security.signing-key'"
+  },
+  {
+    "name": "security.encoding-strength",
+    "type": "java.lang.String",
+    "description": "A description for 'security.encoding-strength'"
+  },
+  {
+    "name": "security.security-realm",
+    "type": "java.lang.String",
+    "description": "A description for 'security.security-realm'"
+  },
+  {
+    "name": "security.jwt.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.client-id'"
+  },
+  {
+    "name": "security.jwt.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.client-secret'"
+  },
+  {
+    "name": "security.jwt.grant-type",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.grant-type'"
+  },
+  {
+    "name": "security.jwt.scope-read",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.scope-read'"
+  },
+  {
+    "name": "security.jwt.scope-write",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.scope-write'"
+  },
+  {
+    "name": "security.jwt.resource-ids",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.resource-ids'"
+  }
+]}
